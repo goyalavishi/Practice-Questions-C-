@@ -1,4 +1,5 @@
-//Practice More Everyday
+//Practice More Everyday 
+//Consecutive Numbers
 #include <string.h>
 #include<ctype.h>
 #include <cstdio>
