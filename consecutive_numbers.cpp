@@ -1,4 +1,4 @@
-//Practice More Everyday
+//Program to print consecutive numbers
 #include <string.h>
 #include<ctype.h>
 #include <cstdio>
